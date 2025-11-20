@@ -1,3 +1,4 @@
+# user input
 a = input()
 print("your name is:", a)
 #or
