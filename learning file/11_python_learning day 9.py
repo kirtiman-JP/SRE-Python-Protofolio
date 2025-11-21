@@ -18,3 +18,4 @@ for character in name:
     print(character)
 for character in apple:
     print(character)
+    
