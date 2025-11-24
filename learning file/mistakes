@@ -1,0 +1,25 @@
+import datetime
+current_hour = 14
+print( f"THe current our is {current_hour}:00")
+if current_hour >= 5 and current_hour <12:
+    print("good morning sir")
+elif current_hour >=12 and current_hour<17:
+    print("Good after noon sir")
+elif current_hour >= 17 and current_hour<22:
+    print("Good eveninng sir")
+else: 
+    print("Hello sir, please take care.")
+
+
+
+
+
+    # import time
+# timestamp = time.strftime ('%H: %M: %S')
+# print(timestamp)
+# timestamp= int(time.strftime('%H'))
+# print(timestamp)
+# timestamp = int(time.strftime('%M'))
+# print(timestamp)
+# timestamp=int(time.strftime('%S'))
+# print(timestamp)
